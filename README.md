@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para a disciplina DIM0114 - Banco de Dados.
 
+Professor: Marcus Vinicius Alencar Terra
+
 ## Tecnologias
 - PostgreSQL
 - SQL
