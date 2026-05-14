@@ -1,2 +1,16 @@
-# sistema-gest-o-vacinas
-Este repositório contem o código SQL para a criação de tabelas correspondentes à um Sistema de Gestão de Vacinação e Monitoramento de Doenças solicitado no trabalho da disciplina de Banco de Dados ministrada pelo professor Marcus Terra. Projeto feito pelo Discente Hérico Souza
+# Sistema de Gestão de Vacinação e Monitoramento de Doenças
+
+Projeto desenvolvido para a disciplina DIM0114 - Banco de Dados.
+
+## Tecnologias
+- PostgreSQL
+- SQL
+- BR Modelo Web
+
+## Estrutura
+- DER
+- Modelo Lógico
+- Scripts SQL
+
+## Autor
+Hérico Marques de Melo Mendes de Souza
